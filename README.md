@@ -1,2 +1,4 @@
-# experience_effect_on_salary
-Estimating the effect of experience level on salary in Data Science jobs
+Experience Effect On Salary
+
+Many people all over the world invest many years studying in universities and colleges, and gaining experience in a profession under the assumption that it will cause in better position, conditions, and salary. Indeed, we see a correlation between the two, but as the fundamental saying in the field of causality goes - correlation doesn't imply causation. In this project, we will check whether this claim is indeed true. 
+    We perform an inference on the "Data Science Job Salaries" dataset. For estimation of the causal effect, we estimate the propensity scores, perform Nearest Neighbor Propensity Score Matching (PSM) algorithm, and compute the Average Treatment Effect (ATE),  Average Treatment effect on Treated (ATT), and Average Treatment effect on Controlled (ATC).
